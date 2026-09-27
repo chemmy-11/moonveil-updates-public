@@ -1,5 +1,5 @@
 {
- "version": "0.3.5",
- "notes": "v0.3.5\n- 与主线同步：角色专属视觉包（个人主页立绘+聊天背景）、三主题收敛（纯白/纯黑/自定义）、语音系统与情绪朗读\n- 智能搜索健壮化：Bing RSS 双端点回落；个人主页统计条随下滑收拢\n⚠ 若提示已是最新，请用「复制链接」手动下载一次",
- "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates-public/master/AI-GF-0.3.5.apk"
+ "version": "0.3.6",
+ "notes": "v0.3.6\n- 新角色「季萤」：INFP · 中文系大二 · 校园深夜电台主播，慢热治愈\n- 修复：回复只有第一条气泡、后续消息不显示的问题（重要）\n- 修复：个人主页上滑时页面抖动\n- 新增：Android 返回键/侧滑手势逐层关闭浮层，不再误退 App\n⚠ 若提示已是最新，请用「复制链接」手动下载一次",
+ "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates-public/master/AI-GF-0.3.6.apk"
 }
