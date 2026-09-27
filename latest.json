@@ -1,5 +1,5 @@
 {
- "version": "0.3.7",
- "notes": "v0.3.7\n- 滚动边界渐隐：消息滚出输入卡边缘时柔和淡出，贴底自动解除\n- 自建角色支持专属视觉包：立绘主页背景与聊天背景可随角色挂载\n⚠ 若提示已是最新，请用「复制链接」手动下载一次",
- "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates-public/master/AI-GF-0.3.7.apk"
+ "version": "0.3.8",
+ "notes": "v0.3.8\n- 季萤角色专属视觉包：全屏立绘主页、雾蓝夜色电台聊天背景、全新立绘头像\n- 应用显示名变更为「月见Moonveil」（同包无感升级，数据不受影响）\n⚠ 若提示已是最新，请用「复制链接」手动下载一次",
+ "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates-public/master/AI-GF-0.3.8.apk"
 }
