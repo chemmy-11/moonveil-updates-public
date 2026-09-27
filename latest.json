@@ -1,5 +1,5 @@
 {
- "version": "0.3.8",
- "notes": "v0.3.8\n- 季萤角色专属视觉包：全屏立绘主页、雾蓝夜色电台聊天背景、全新立绘头像\n- 应用显示名变更为「月见Moonveil」（同包无感升级，数据不受影响）\n⚠ 若提示已是最新，请用「复制链接」手动下载一次",
- "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates-public/master/AI-GF-0.3.8.apk"
+ "version": "0.4.0",
+ "notes": "v0.4.0\n- 新增三位男性角色:欧阳越/江野/林乐(在「角色库」中启用)\n- 角色库:聊天栏只显示已启用的角色,停用不删数据;自建角色可删除\n- 「TA的独白」改为角色第一人称内心独白,不再展示模型思维链\n- 老用户升级聊天栏不变,新角色从角色库开启",
+ "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates-public/master/AI-GF-0.4.0.apk"
 }
