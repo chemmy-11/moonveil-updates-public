@@ -1,5 +1,5 @@
 {
- "version": "0.4.0",
- "notes": "v0.4.0\n- 新增三位男性角色:欧阳越/江野/林乐(在「角色库」中启用)\n- 角色库:聊天栏只显示已启用的角色,停用不删数据;自建角色可删除\n- 「TA的独白」改为角色第一人称内心独白,不再展示模型思维链\n- 老用户升级聊天栏不变,新角色从角色库开启",
- "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates-public/master/AI-GF-0.4.0.apk"
+ "version": "0.4.1",
+ "notes": "v0.4.1\n- 新增「语音气泡」模式:她的回复以一整段语音送达,动作描写不朗读\n- 支持自定义 AI 供应商(OpenAI 兼容接口,在 API 设置中配置)\n- 智能搜索质量修复:检索结果更准,回答更贴合最新信息\n- 输入框长文本自动增高,最多两行半",
+ "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates-public/master/AI-GF-0.4.1.apk"
 }
