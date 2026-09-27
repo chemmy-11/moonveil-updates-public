@@ -1,5 +1,5 @@
 {
  "version": "0.4.1",
- "notes": "v0.4.1\n- 新增「语音气泡」模式:她的回复以一整段语音送达,动作描写不朗读\n- 支持自定义 AI 供应商(OpenAI 兼容接口,在 API 设置中配置)\n- 智能搜索质量修复:检索结果更准,回答更贴合最新信息\n- 输入框长文本自动增高,最多两行半",
+ "notes": "v0.4.1\n- 新增「语音气泡」模式:她的回复以一整段语音送达,动作描写不朗读\n- 支持自定义 AI 供应商(OpenAI 兼容接口,在 API 设置中配置)\n- 智能搜索质量修复:检索结果更准,回答更贴合最新信息\n- 输入框长文本自动增高,最多两行半\n- 修复会话滚动异常（TypeError），恢复近顶部历史懒加载兜底",
  "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates-public/master/AI-GF-0.4.1.apk"
 }
