@@ -1,5 +1,5 @@
 {
- "version": "0.4.3",
- "notes": "v0.4.3\n- 长对话更稳:不再把你说的话记成她说的,人称不再混乱\n- 「她的喜好」提取收紧:不再误收你的喜好/假设句,近重复不再堆积\n- 有新版本会自动轻提示,点一下直达更新弹窗\n- 主动消息通知(手机):她主动发来消息时出系统通知,点开直达会话;仅本地通知,App被杀时收不到属平台限制\n- 自定义供应商可开深度思考(独白板块恢复),支持多供应商槽位与 DeepSeek 同级切换",
- "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates-public/master/AI-GF-0.4.3.apk"
+ "version": "0.4.4",
+ "notes": "v0.4.4\n- 立绘即壁纸：角色专属主题下她的立绘直接作聊天背景\n- 个人主页回归纯白极简，细节大扫除（遮罩/光圈移除、透明度统一 78%）\n- 打开主页自动隐藏聊天顶栏\n- 朗读音色按性别分池：女声新增气质温婉、男声两档，双槽记忆\n- 句尾句号显示层剥离（聊天记录仍存原文）",
+ "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates-public/master/AI-GF-0.4.4.apk"
 }
