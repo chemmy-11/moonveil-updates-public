@@ -1,5 +1,5 @@
 {
- "version": "0.4.2",
- "notes": "v0.4.2\n- 「她的状态」重校:状态随聊天可变,连续聊两句就有可感知的变化;五档文案随机抽取,六位角色各有个性,深夜/清晨选词不同\n- 主动消息(实验,默认关):侧栏开启后她会到点主动找你聊天——早安/晚安/久未想念,可回看可回复,消耗 API 额度\n- 消息默认纯文字:非见面剧情不再出现小说式动作描写,微信式聊天幻觉更稳\n- 修复自定义供应商表单死锁:关闭态保持可编辑,空表单给出聚焦引导",
- "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates-public/master/AI-GF-0.4.2.apk"
+ "version": "0.4.3",
+ "notes": "v0.4.3\n- 长对话更稳:不再把你说的话记成她说的,人称不再混乱\n- 「她的喜好」提取收紧:不再误收你的喜好/假设句,近重复不再堆积\n- 有新版本会自动轻提示,点一下直达更新弹窗\n- 主动消息通知(手机):她主动发来消息时出系统通知,点开直达会话;仅本地通知,App被杀时收不到属平台限制",
+ "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates-public/master/AI-GF-0.4.3.apk"
 }
