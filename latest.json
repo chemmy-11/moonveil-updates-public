@@ -1,5 +1,5 @@
 {
- "version": "0.4.1",
- "notes": "v0.4.1\n- 新增「语音气泡」模式:她的回复以一整段语音送达,动作描写不朗读\n- 支持自定义 AI 供应商(OpenAI 兼容接口,在 API 设置中配置)\n- 智能搜索质量修复:检索结果更准,回答更贴合最新信息\n- 输入框长文本自动增高,最多两行半\n- 修复会话滚动异常（TypeError），恢复近顶部历史懒加载兜底",
- "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates-public/master/AI-GF-0.4.1.apk"
+ "version": "0.4.2",
+ "notes": "v0.4.2\n- 「她的状态」重校:状态随聊天可变,连续聊两句就有可感知的变化;五档文案随机抽取,六位角色各有个性,深夜/清晨选词不同\n- 主动消息(实验,默认关):侧栏开启后她会到点主动找你聊天——早安/晚安/久未想念,可回看可回复,消耗 API 额度\n- 消息默认纯文字:非见面剧情不再出现小说式动作描写,微信式聊天幻觉更稳\n- 修复自定义供应商表单死锁:关闭态保持可编辑,空表单给出聚焦引导",
+ "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates-public/master/AI-GF-0.4.2.apk"
 }
