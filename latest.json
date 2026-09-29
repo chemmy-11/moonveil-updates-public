@@ -1,5 +1,5 @@
 {
- "version": "0.4.4",
- "notes": "v0.4.4\n- 立绘即壁纸：角色专属主题下她的立绘直接作聊天背景\n- 个人主页回归纯白极简，细节大扫除（遮罩/光圈移除、透明度统一 78%）\n- 打开主页自动隐藏聊天顶栏\n- 朗读音色按性别分池：女声新增气质温婉、男声两档，双槽记忆\n- 句尾句号显示层剥离（聊天记录仍存原文）",
- "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates-public/master/AI-GF-0.4.4.apk"
+ "version": "0.4.5",
+ "notes": "v0.4.5\n- 角色专属主题透明度统一降至 .62:气泡/输入卡/顶栏更通透",
+ "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates-public/master/AI-GF-0.4.5.apk"
 }
