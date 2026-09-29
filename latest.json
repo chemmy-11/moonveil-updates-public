@@ -1,5 +1,5 @@
 {
- "version": "0.4.5",
- "notes": "v0.4.5\n- 角色专属主题透明度统一降至 .62:气泡/输入卡/顶栏更通透",
- "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates-public/master/AI-GF-0.4.5.apk"
+ "version": "0.4.6",
+ "notes": "v0.4.6\n- 修复消息通知:开启主动消息后将真实弹出系统通知\n- 主动消息频控:每日至多 3 次、每次至多 3 条\n- 角色专属主题顶栏去磨砂,材质与气泡统一",
+ "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates-public/master/AI-GF-0.4.6.apk"
 }
